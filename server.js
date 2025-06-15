@@ -20,7 +20,7 @@ app.use(cors({
   origin: [
     'http://localhost:3000',
     'https://featherframe.vercel.app',
-    'https://featherframe-frontend.vercel.app'
+    'https://feather-frame-vzfe.vercel.app'
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
